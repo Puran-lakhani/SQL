@@ -1,0 +1,5 @@
+#Leetcode: https://leetcode.com/problems/patients-with-a-condition/description/
+
+Select patient_id, patient_name, conditions
+From Patients
+Where conditions LIKE '%DIAB1%'
